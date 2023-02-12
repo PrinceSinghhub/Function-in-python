@@ -1,0 +1,12 @@
+a=5
+b=0
+c=1
+print(b)
+print(c)
+a=5-4
+b+=a
+print(b)
+b+=a
+print(b)
+b+=a
+print(b)
